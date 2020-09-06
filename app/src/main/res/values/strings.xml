@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Gothrakhandam</string>
+
+    <string name="gothram">Gothram name\nto House names</string>
+    <string name="housenames">House name\n to Gothram name</string>
+    <string name="muhurtham">Subha Muhurtha\nNaatkal</string>
+    <string name="prothargal">Prohithar</string>
+    <string name="porutham">Thirumana Porutham</string>
+    <string name="name">N.G.RAMESH IYENGAR</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="house_names">House Names</string>
+    <string name="right_button">right button</string>
+    <string name="viewpager">viewpager</string>
+
+</resources>

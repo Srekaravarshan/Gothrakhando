@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#f2f2f2</color>
+    <color name="colorAccent">#D81B60</color>
+    
+    <color name="background">#f2f2f2</color>
+    <color name="toolbar">#f2f2f2</color>
+    <color name="text">#000</color>
+    <color name="text2">#3c7fda</color>
+    <color name="hint">#868687</color>
+    <color name="searchbg">#D1D1D1</color>
+    <color name="card">#fff</color>
+    <color name="button">#3c7fda</color>
+
+<!--    <color name="background">#000</color>-->
+<!--    <color name="toolbar">#000</color>-->
+<!--    <color name="text">#fff</color>-->
+<!--    <color name="hint">#868687</color>-->
+<!--    <color name="searchbg">#D1D1D1</color>-->
+<!--    <color name="card">#252525</color>-->
+<!--    <color name="button">#3c7fda</color>-->
+
+    <color name="graVio1">#1e3264</color>
+    <color name="graVio2">#ad2895</color>
+    <color name="graRed1">#551e19 </color>
+    <color name="graRed2">#ac332a </color>
+    <color name="graGreen1">#0b5345 </color>
+    <color name="graGreen2">#18b973 </color>
+    <color name="graBlue1">#529aef </color>
+    <color name="graBlue2">#509bf6 </color>
+    <color name="graYel1">#f59b23 </color>
+    <color name="graYel2">#c87d55 </color>
+    <color name="graLight1">#5991c2 </color>
+    <color name="graLight2">#3f3e77 </color>
+</resources>
