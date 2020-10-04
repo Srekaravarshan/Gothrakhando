@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.gothrakhando">
+    package="com.Sre.gothrakhando">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
-        android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".About"></activity>
-        <activity android:name=".Prohithar" />
-        <activity android:name=".Muhurtham" />
-        <activity android:name=".House_names" />
-        <activity android:name=".Home_Page">
+        <activity android:name="com.Sre.gothrakhando.Porutham" android:screenOrientation="landscape"/>
+        <activity
+            android:name="com.Sre.gothrakhando.SplashScreen"
+            android:theme="@style/splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".pdf" />
-        <activity android:name=".MainActivity" />
+        <activity android:name="com.Sre.gothrakhando.About" />
+        <activity android:name="com.Sre.gothrakhando.Prohithar" />
+        <activity android:name="com.Sre.gothrakhando.Muhurtham" />
+        <activity android:name="com.Sre.gothrakhando.House_names" />
+        <activity android:name="com.Sre.gothrakhando.Home_Page" >
+
+
+        </activity>
+        <activity android:name="com.Sre.gothrakhando.pdf" />
+        <activity android:name="com.Sre.gothrakhando.MainActivity" />
     </application>
 
 </manifest>

@@ -1,16 +1,38 @@
 <resources>
 
-    <string name="app_name">Gothrakhandam</string>
+    <string name="app_name">Gothrakandam</string>
 
-    <string name="gothram">Gothram name\nto House names</string>
-    <string name="housenames">House name\n to Gothram name</string>
+    <string name="gothram">Gothram name</string>
+    <string name="housenames">House name</string>
     <string name="muhurtham">Subha Muhurtha\nNaatkal</string>
     <string name="prothargal">Prohithar</string>
-    <string name="porutham">Thirumana Porutham</string>
+    <string name="porutham">Marriage\nmatching</string>
     <string name="name">N.G.RAMESH IYENGAR</string>
     <string name="profile_picture">profile picture</string>
     <string name="house_names">House Names</string>
     <string name="right_button">right button</string>
     <string name="viewpager">viewpager</string>
+    <string name="splash_screen">splash Screen</string>
+    <string name="title">யஜுர் வேத\nஆபஸ்தம்பஸூத்ர\nசௌராஷ்ட்ர\nகோத்ர காண்டொ</string>
+    <string name="regards">நன்றி\nபாஷாபிமானி\nதொப்பென் வெ.குபேந்த்ரொ</string>
+    <string name="number">+919842153239</string>
+    <string name="phonenumbertxt">Mobile</string>
+    <string name="address">Plot no. \"P\", Kuberan st., Sri Mahalakshmi nagar, Villapuram, Madurai-625012.\nOld Kathivel theatre complex.</string>
+    <string name="devnames">RamBalaji\nSrekaravarshan</string>
+    <string name="app_developers">App developers</string>
+
+    <string name="monday">திங்கள்</string>
+    <string name="tuesday">செவ்வாய்</string>
+    <string name="wednesday">புதன்</string>
+    <string name="thursday">வியாழன்</string>
+    <string name="friday">வெள்ளி</string>
+    <string name="saturday">சனி</string>
+    <string name="sunday">ஞாயிறு</string>
+    <string name="muhurthamtitle">ஸ்ரீ சார்வரி வருஷம்\nசுப முகூர்த்த நாட்கள்\n2020-2021</string>
+    <string name="contact">Contact</string>
+    <string name="gps">gps</string>
+    <string name="vaasthu">Vaasthu Naatkal\nManaiyadi saasthram</string>
+    <string name="gowri">Gowri Panjangam\nMukkiya viratha naatkal</string>
+    <string name="email">balajiramnk@gmail.com\nsrekaravarshan@gmail.com</string>
 
 </resources>

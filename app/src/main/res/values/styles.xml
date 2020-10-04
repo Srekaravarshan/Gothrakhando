@@ -8,4 +8,10 @@
         <item name="android:windowLightStatusBar" tools:ignore="NewApi">true</item>
     </style>
 
+    <style name="splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#ff1b57</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
 </resources>

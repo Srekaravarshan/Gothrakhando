@@ -8,10 +8,13 @@
     <color name="toolbar">#f2f2f2</color>
     <color name="text">#000</color>
     <color name="text2">#3c7fda</color>
+    <color name="table">#fff</color>
     <color name="hint">#868687</color>
     <color name="searchbg">#D1D1D1</color>
     <color name="card">#fff</color>
     <color name="button">#3c7fda</color>
+
+    <color name="rosepink">#ff1b57</color>
 
 <!--    <color name="background">#000</color>-->
 <!--    <color name="toolbar">#000</color>-->
